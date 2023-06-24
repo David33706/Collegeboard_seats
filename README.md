@@ -5,6 +5,8 @@ I have developed this bot to help people from Post-soviet countried including Uz
 Since the issue with registration have resolved, the bot is currently deactivated and the code with files isn't updated for the new dates. If you are interested, you may modify technical aspects of the application and activate it again.
 
 # Technical aspects
+The code is adapted for Linux systems
+Modify the path for Chromedriver accordingly
 Make sure to put your Telegram bot's TOKEN in ".env" located in "aiogram-bot-template-master" folder
 File "main.db" will be automatically created after bot activation and serves as the database of users
 
